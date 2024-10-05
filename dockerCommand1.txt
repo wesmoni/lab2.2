@@ -1,1 +1,1 @@
-docker network create jenkins
+docker network create jenkins -doc 1
